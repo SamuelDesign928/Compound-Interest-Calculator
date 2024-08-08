@@ -5,3 +5,9 @@ The interest it can do are: daily, weekly, monthly, quarterly, annually. These a
 
 What I've learnt/improved on:
   working with dictionaries
+
+git clone https://github.com/yourusername/Compound-Interest-Calculator.git
+cd Compound-Interest-Calculator
+python compound_interest_calculator.py
+
+Alternatively you should be able to download the file and run it if you have python already installed.
